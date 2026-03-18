@@ -1,6 +1,6 @@
 {
   "github": {
-    "username": "",
+    "username": "rayhan-404",
     "token": ""
   },
   "profile": {
@@ -20,7 +20,16 @@
     "pct": 0,
     "log": []
   },
-  "skills": ["React", "Node.js", "TypeScript", "Python", "MongoDB", "Figma", "Docker", "Git"],
+  "skills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "MongoDB",
+    "Figma",
+    "Docker",
+    "Git"
+  ],
   "password": "admin123",
   "heroImage": "",
   "theme": "light"
